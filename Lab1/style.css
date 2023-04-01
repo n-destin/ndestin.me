@@ -1,0 +1,146 @@
+/* body{
+    color: black;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.heading{
+    background-color: white;
+    position: fixed;
+    width: 100vw;
+}
+
+button#exp-cont{
+    color: white;
+    height: 3rem;
+    width: 10rem;
+    margin-left: 2rem;
+}
+button:hover{
+    cursor: pointer;
+}
+
+button#exp-cont:hover{
+    background-color:  rgb(3, 3, 227);
+}
+.buttons{
+    padding: 2rem;
+    justify-content: center;
+}
+nav{
+    align-items: center;
+    display: flex;
+    position: fixed;
+    background-color: white;
+    width: 100vw;
+}
+
+nav ul{
+    margin-left: 25vw;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+h1#heading{
+    font-size: 3rem;
+}
+
+.logo{
+    margin-left: 5rem;
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    padding: 30px;
+}
+nav a:hover{
+    color: rgb(3, 3, 227);
+}
+.description h1{
+    text-align: center;
+}
+.logo img{
+    height: 5rem;
+    width: 12rem;
+}
+.content{
+    display: flex;
+    padding: .3rem;
+    justify-content: center;
+    background: url("images/bg-image.jpg") no-repeat center fixed;
+    background-size: cover;
+    height: 100vh;
+}
+nav button:hover{
+    background-color: rgb(3, 3, 227);
+    color: white;
+}
+
+button{
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    border: 2px rgb(3, 3, 227) solid;
+    background-color: transparent;
+}
+
+li a :hover{
+    color: white;
+}
+#heading{
+    text-align: center;
+    justify-content: center;
+}
+
+.main{
+    justify-content: center;
+    width: 100vw;
+    text-align: center;
+    margin-top: 13rem;
+    color: white;
+}
+
+.sections{
+    display: flex;
+    padding: 5rem;
+}
+.partners{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.aside{
+    border: 2px solid black;
+    padding: .5rem;
+}
+
+.aside img{
+    height: 32rem;
+    width: 40rem;
+}
+
+span.logo{
+    color:  rgb(3, 3, 227);
+    margin-left: -1px;
+}
+
+.partnerUs h1{
+    text-align: center;
+}
+
+hr{
+    width: 80vw;
+}
+
+.icons{
+    display: flex;
+}
+
+.icons img{
+    height: 1rem;
+    width: 1rem;
+} */
